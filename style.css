@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    background-image: url(https://img.freepik.com/vetores-gratis/desenho-de-fundo-espalhado-de-folhas-verdes_1017-31327.jpg?w=2000);
+    color: rgb(1, 19, 1);
+}
+h1{
+    background-color: rgb(236, 213, 182);
+}
